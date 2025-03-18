@@ -13,7 +13,7 @@ const App = () => {
   const fetchMovieData=async ()=>{
     try{
       setLoading(true)
-      const response=await fetch(`http://www.omdbapi.com/?s=${searchMovie}&apikey=132415c4`);
+      const response=await fetch(`https://www.omdbapi.com/?s=${searchMovie}&apikey=132415c4`);
       const data=await response.json();
 
       setAllMovieData(data.Search)
