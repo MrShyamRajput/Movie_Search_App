@@ -1,5 +1,5 @@
 # 🎬 Movie Search App
-
+Try Website Here: https://movie-search-app-lime-one.vercel.app/
 ## Description
 Welcome to **Movie Search App** – a simple and fast movie search platform! Enter a movie title and get instant details, including the release year, poster, and type (Movie/Series).
 
@@ -31,19 +31,6 @@ Home Page:
 
 About Page:
 ![Screenshot 2025-03-18 013051](https://github.com/user-attachments/assets/b7646873-9f14-4fe8-aa70-53d7f0d1d1fc)
-
-
-## 🏆 Contributing
-Contributions are welcome! Feel free to fork the repo and submit a pull request.
-
-## 📜 License
-This project is licensed under the MIT License.
-
-## 📬 Contact
-For any queries, feel free to reach out!
-
-🚀 Happy Coding!
-
 
 
 # React + Vite
